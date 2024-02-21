@@ -1,0 +1,10 @@
+ String nomeProduto
+ float precoProduto
+ String marcaDoProduto
+ int quantidadeProduto
+ String descricaoProduto
+ String nomeProduto
+ int numeroProduto
+ double precoDoProduto
+ int estoqueDisponivel
+ int totalDeProdutos
