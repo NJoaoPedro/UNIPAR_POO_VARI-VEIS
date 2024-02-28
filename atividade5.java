@@ -14,7 +14,20 @@ public class ControleEstoque {
         int quantLaptop = 20;
         int quantFone = 5;
         
-        
-
+        System.out.println("Dados do Smartphone:");
+        System.out.println("Nome: " + nomeSmartphone);
+        System.out.println("Marca: " + marcaSmartphone);
+        System.out.println("Preco: " + precoSmartphone);
+        System.out.println("Quantidade no estoque: " + quantSmartphone);
+        System.out.println("Dados do Laptop:");
+        System.out.println("Nome: " + nomeLaptop);
+        System.out.println("Marca: " + marcaLaptop);
+        System.out.println("Preco: " + precoLaptop);
+        System.out.println("Quantidade no estoque: " + quantLaptop);
+        System.out.println("Dados do Fone de Ouvido:");
+        System.out.println("Nome: " + nomeFone);
+        System.out.println("Marca: " + marcaFone);
+        System.out.println("Preco: " + precoFone);
+        System.out.println("Quantidade no estoque: " + quantFone);
     }
 }
